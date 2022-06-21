@@ -7,7 +7,7 @@ This project has devise_token_auth, react_router, etc setup.
 ## Getting starter (how to use)
 
 ## Clone
-1. git clone git@github.com:jimibue/sum22-starter-r7.git 'project-name'
+1. git clone git@github.com:Drew2447/starter.git 'project-name'
 2. cd 'project-name'
 
 ### rails stuff
